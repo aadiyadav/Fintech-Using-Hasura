@@ -59,7 +59,7 @@ const Register = ({onRegister}) => {
       <h1 className='mr-3'>Authorized User?</h1>
       <button onClick={handleLoginClick} className="text-funky">Login</button>
       </div>
-    </div>
+    </div> 
   );
 };
 
