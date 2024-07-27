@@ -20,4 +20,7 @@
    docker-compose up -d
 
 
-And you are done!
+And you are done, you can access the hasura console on:
+  http://localhost:8080/console!
+And the website will be accessible on your frontend port, by default which is:
+  http://localhost:5173/login
