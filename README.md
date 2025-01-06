@@ -31,7 +31,7 @@ Before running the project locally, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/aadiyadav/fintech.git
+   git clone https://github.com/aadiyadav/fintech.git
    cd BINGOFIN
    ```
 
